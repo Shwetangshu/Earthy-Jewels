@@ -1,9 +1,7 @@
-# noc
-### *A visually pleasing dark theme for VSCode.*
+# Earthy Jewels
+### *A visually pleasing dark theme with natural tones, colorful accents, and a calming code environment for VSCode.*
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/dasshounak.noc?style=flat-square) ![GitHub](https://img.shields.io/github/license/dasShounak/noc?style=flat-square) ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/dasShounak.noc?style=flat-square) ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/dasShounak.noc?style=flat-square) ![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/dasShounak.noc?style=flat-square)
-
-A [Visual Studio Code](https://code.visualstudio.com/) theme for all the nocturnal coders out there. Optimised for those who work late at night or in low-light environments and fine-tuned for reading comprehension.
+A [Visual Studio Code](https://code.visualstudio.com/) theme crafted for nocturnal coders, drawing inspiration from the serene hues of earthy jewels. Tailored for late-night coding sessions and low-light environments, this theme offers a soothing, green calm vibe, meticulously designed to enhance reading comprehension and foster focus.
 
 **HTML**
 ![Screenshot](images/html.png)
@@ -12,7 +10,7 @@ A [Visual Studio Code](https://code.visualstudio.com/) theme for all the nocturn
 ![Screenshot](images/css.png)
 
 **JavaScript**
-![Screenshot](images/javascript.png)
+![Screenshot](images/js.png)
 
 ## Installation
 1. Install [Visual Studio Code](https://code.visualstudio.com/).
@@ -22,11 +20,11 @@ A [Visual Studio Code](https://code.visualstudio.com/) theme for all the nocturn
 5. Click **Install** to install the theme.
 6. **Reload** Visual Studio Code.
 7. Open the **Settings** menu.
-8. Click: Color Theme > noc.
+8. Click: Color Theme > Earthy Jewels.
 
 ## Issues
-- [Bug report](https://github.com/dasShounak/noc/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D)
-- [Feature request](https://github.com/dasShounak/noc/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFEATURE+REQUEST%5D)
+- [Bug report]()
+- [Feature request]()
 
 ## License
 [MIT License](https://marketplace.visualstudio.com/items/dasShounak.noc/license)
