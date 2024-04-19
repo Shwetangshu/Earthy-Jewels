@@ -1,0 +1,32 @@
+{
+  "name": "Earthy Jewels",
+  "displayName": "Earthy Jewels",
+  "publisher": "ShwetangshuB",
+  "description": "A visually pleasing dark theme with natural tones, colorful accents, and a calming code environment for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "earthy-jewels",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ej-color-theme.json"
+      }
+    ]
+  },
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#24242f",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shwetangshu/Earthy-Jewels.git"
+  }
+}
