@@ -3,7 +3,7 @@
 
 A [Visual Studio Code](https://code.visualstudio.com/) theme crafted for nocturnal coders, drawing inspiration from the serene hues of earthy jewels. Tailored for late-night coding sessions and low-light environments, this theme offers a soothing, green calm vibe, meticulously designed to enhance reading comprehension and foster focus.
 
-Link to Marketplace: (https://marketplace.visualstudio.com/items?itemName=ShwetangshuB.earthy-jewels)
+Link to Marketplace: [Here](https://marketplace.visualstudio.com/items?itemName=ShwetangshuB.earthy-jewels)
 
 **HTML**
 ![Screenshot](images/html.png)
