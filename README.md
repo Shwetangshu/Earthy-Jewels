@@ -22,7 +22,7 @@ Link to Marketplace: [Here](https://marketplace.visualstudio.com/items?itemName=
 5. Click **Install** to install the theme.
 6. **Reload** Visual Studio Code.
 7. Open the **Settings** menu.
-8. Click: Color Theme > Earthy Jewels.
+8. Click here: Color Theme > Earthy Jewels.
 
 ## Issues
 - [Bug report]()
